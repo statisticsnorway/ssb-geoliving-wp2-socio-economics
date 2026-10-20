@@ -1,3 +1,13 @@
+# ssb-geoliving-wp2-socio-economics
+
+3
+
+Opprettet av:
+Vilni Verne Holst Bloch <vvh@ssb.no>
+
+---
+
+Legg inn beskrivelse av prosjektet her.
 # Development of open source based socio-economic indicators
 <img width="1280" height="640" alt="ssb-geoliving-wp2-socio-economics-social-preview" src="https://github.com/user-attachments/assets/d1805fcd-e2b7-4cc1-ac8e-d3986b5db2ce" />
 
